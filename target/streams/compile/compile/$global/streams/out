@@ -1,0 +1,39 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method abs(float)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Assignment[0m
+[0m[[0m[31merror[0m] [0m[0m		return abs(x);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:32:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method max(float,float)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Assignment[0m
+[0m[[0m[31merror[0m] [0m[0m		return max(x,y);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:36:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method max(float,float)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Assignment[0m
+[0m[[0m[31merror[0m] [0m[0m		return max(x,y);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:46:1: package system does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m			system.out.println("Enter Your Choice : \n1    Add\n" +[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:67:1: non-static method add(float,float) cannot be referenced from a static context[0m
+[0m[[0m[31merror[0m] [0m[0m				case 1:add(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:69:1: non-static method sub(float,float) cannot be referenced from a static context[0m
+[0m[[0m[31merror[0m] [0m[0m				case 2:sub(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:71:1: non-static method mul(float,float) cannot be referenced from a static context[0m
+[0m[[0m[31merror[0m] [0m[0m				case 3:mul(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:73:1: non-static method div(float,float) cannot be referenced from a static context[0m
+[0m[[0m[31merror[0m] [0m[0m				case 4:div(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:75:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method pow(float,float)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Assignment[0m
+[0m[[0m[31merror[0m] [0m[0m				case 5:pow(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:77:1: method absolute in class Assignment cannot be applied to given types;[0m
+[0m[[0m[31merror[0m] [0m[0m  required: float[0m
+[0m[[0m[31merror[0m] [0m[0m  found: float,float[0m
+[0m[[0m[31merror[0m] [0m[0m  reason: actual and formal argument lists differ in length[0m
+[0m[[0m[31merror[0m] [0m[0m				case 6:absolute(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:81:1: non-static method maximum(float,float) cannot be referenced from a static context[0m
+[0m[[0m[31merror[0m] [0m[0m				case 8:maximum(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:83:1: non-static method minimum(float,float) cannot be referenced from a static context[0m
+[0m[[0m[31merror[0m] [0m[0m				case 9:minimum(o1,o2);[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/Assignment/Assignment.java:89:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method nextChar()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable in of type java.util.Scanner[0m
+[0m[[0m[31merror[0m] [0m[0m			c=in.nextChar();[0m
